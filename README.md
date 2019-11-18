@@ -1,2 +1,3 @@
-# server-status
-Repository to have information about server status
+# Server status :
+
+**Running** <img src="ok.png" width="100"> 
