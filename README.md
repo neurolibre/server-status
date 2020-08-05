@@ -1,6 +1,6 @@
 # Server status :
 
-**Partial** <img src="partial.png" width="100"> 
+**Down** <img src="down.png" width="100"> 
 
-Issue : http timeout with Repo2Data when building https://github.com/neurolibre/neurolibre-binderhub/issues/19
-If you are not using Repo2Data, everything should work normally.
+Issue : Our allocation on our provider was reduced few weeks ago.
+This caused bad behaviours on our servers and we are currently working with our new provider to provide a sustainable solution.
