@@ -1,3 +1,1 @@
-# Server status :
-
-**Ok** <img src="ok.png" width="100"> 
+[![](https://img.shields.io/badge/status-ok-green)]()
